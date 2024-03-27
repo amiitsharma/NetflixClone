@@ -518,6 +518,22 @@
         flex-direction: column;
         align-items: center;
     }
+    #hero-form .footer-form-btn{
+        font-weight: unset;
+        font-size: 10px;
+        height: auto;
+    }
+    #hero-form .email-input{
+        font-weight: unset;
+        height: auto;
+        background-color: transparent;
+        height: 22.5px;
+        width: 250px;
+        border-radius: 4px;
+        border: 1px solid black;
+        opacity: 0.5;
+        background-color: black;
+    }
  }
 
 
