@@ -464,6 +464,10 @@
     border-radius: 4px;
     width: 80%;
 }
+#faq-foot-form-btn-wrapper{
+    display: flex;
+    justify-content: center;
+}
 /* for-phone-only */
 @media only screen and (max-width: 599px) { 
     .hero-block .desc{
